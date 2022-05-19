@@ -1,0 +1,42 @@
+* {
+
+	margin: 0;
+	padding: 0;
+
+
+}
+
+#socialMedia li  {
+
+display: inline-block;
+padding-right: 5px;
+position: relative;
+
+}
+
+#parallax {
+
+ background-image: url("../assets/images/paralax.jpg");
+ height: 400px;
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ border: 2px solid black;
+ /*-- Box modeling --*/
+ padding: 50px 30px;
+ margin-bottom: 50px;
+ margin: 10px;
+
+}
+
+#contParallax
+{
+ 
+ font-family: cursive;
+ font-size: 18px;
+ font-style: italic;
+ color: whitesmoke;
+
+}
+
